@@ -6,3 +6,4 @@ git commit -m "My First"
 git config --global user.name "vibhavisliit"
 git remote add origin https://github.com/vibhavisliit/OOP_Vibhavi.git
 git push -u origin master
+git config --global --unset-all
